@@ -38,91 +38,40 @@ function Ios() {
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon" className="card_icon"></span>
-                                <Col><h4>Product Design</h4>
+                                <Col><h6>Building for Apple's Ecosystem</h6>
                                     <span></span>
                                 </Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>iOS developers leverage Swift, Apple's modern programming language, known for its safety, speed, and expressiveness. Objective-C, though older, is still used for legacy codebases and compatibility reasons. Mastering these languages is essential for creating robust, efficient iOS applications.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                    <Col><h4>Product Design</h4>
+                                    <Col><h6>User Interface Design</h6>
                                         <span></span>
                                     </Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>iOS places a strong emphasis on intuitive, visually appealing user interfaces (UI). Developers utilize Interface Builder in Xcode, along with UIKit or SwiftUI frameworks, to design interfaces that adhere to Apple's Human Interface Guidelines (HIG). These guidelines ensure consistency, accessibility.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h6>App Store Guidelines </h6><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>Publishing iOS apps involves adherence to stringent guidelines set by Apple. These guidelines cover various aspects, including app functionality, security, privacy, and content. Developers must ensure their apps comply with these guidelines to be accepted into the App Store, Apple's digital distribution platform for iOS apps.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h6> Core iOS Frameworks</h6><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                </Row>
-                <Row className="bxuirt2">
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                </Row>
-            </Container>
-            <Container fluid className="content_three">
-                <Row>
-                    <Col style={{ margin: "auto" }}>
-                        <img src={process.env.PUBLIC_URL + "/Assets/services/Group7.svg"} alt="logo" />
-                    </Col>
-                    <Col>
-                        <div className="tex_word_wp">
-                            <h2>What is Lorem Ipsum?</h2>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.  A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>iOS development relies on a wide range of built-in frameworks provided by Apple, such as UIKit, CoreData, CoreLocation, and many others. These frameworks offer essential functionalities for tasks like user interface handling, data management, location services, and more, streamlining the development process and enhancing app capabilities.</p>
                         </div>
                     </Col>
                 </Row>
@@ -183,7 +132,7 @@ function Ios() {
                         <div className="tex_word_wp_Four">
                             <h2>What people think.</h2>
                             <i class="fa fa-quote-right quotesbx" aria-hidden="true"></i>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.  A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>At Aswebtech, we specialize in creating stunning websites and powerful mobile applications that drive business success. Our team of expert developers and designers are dedicated to delivering top-notch digital solutions tailored to meet your unique needs.</p>
                         </div>
                     </Col>
                 </Row>
