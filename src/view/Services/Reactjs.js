@@ -16,9 +16,8 @@ function Reactjs() {
                     <img src={process.env.PUBLIC_URL + "/Assets/services/react.jpg"} className="App-banner" alt="logo" />
                     <div style={{ position: "relative" }}>
                         <div className="head_wrapper">
-                            <h1><span id="head_main">REACT JS DEVELOPMENT</span></h1>
-                            <p><span id="head_para">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</span></p>
-                            <button className="allBtnwrapper">GET IN TOUCH</button>
+                            <h1><span id="head_main">REACT JS / NEXT JS</span></h1>
+                            <p><span id="head_para">React JS and Next JS are powerful frameworks for building dynamic and responsive websites with enhanced user experiences. Leveraging the declarative component-based architecture of React, developers can create reusable UI components, streamlining the development process and ensuring consistency across the application.</span></p>
                         </div>
                     </div>
                 </Row>
@@ -26,92 +25,54 @@ function Reactjs() {
             <Container>
                 <Row>
                     <div style={{ textAlign: "center", marginTop: "40px", marginBottom: "40px" }}>
-                        <h3>WordPress Development</h3>
+                        <h3>React JS and Next JS offer a modern and efficient development</h3>
                         <span class="content_bar"></span>
-                        <p>We undertake services that cater to commercial purpose to personal requirements. Our WordPress development team fulfills the needs of our customers with reflective and efficient website designs. In today's modern time, WordPress is a boosting factor in the digital world. Emstell is one of the leading WordPress development companies that strive to offer websites that are compatible with serving various needs of the business. Professionals from Emstell are dedicated to offering services of WordPress development and designing services.</p>
+                        <p>Next JS extends the capabilities of React by offering server-side rendering, enabling faster page loads and improved SEO performance. Additionally, Next JS provides built-in routing, code splitting, and static site generation features, empowering developers to optimize performance and scalability effortlessly.</p>
                     </div>
                 </Row>
             </Container>
             <Container>
-                <h3 style={{ textAlign: "center" }}>WHY CHOOSE AMBAB FOR MAGENTO DEVELOPMENT</h3>
+                <h3 style={{ textAlign: "center" }}>WHY CHOOSE AS WEB TECH FOR WEBSITE DEVELOPMENT</h3>
                 <span class="content_bar"></span>
                 <Row className="bxuirt">
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon" className="card_icon"></span>
-                                <Col><h4>Product Design</h4>
+                                <Col><h6>Empowering Dynamic UI Development</h6>
                                     <span></span>
                                 </Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>React JS revolutionizes UI development with its declarative syntax and component reusability. Developers can create modular UI components, facilitating code organization and maintenance. Through its virtual DOM implementation, React optimizes rendering performance.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                    <Col><h4>Product Design</h4>
+                                    <Col><h6>Unleashing Server-Side Rendering</h6>
                                         <span></span>
                                     </Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>Next JS extends the capabilities of React by introducing server-side rendering (SSR), a feature that pre-renders pages on the server for faster initial page loads. This not only enhances user experience but also improves search engine optimization (SEO) </p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h6>Optimizing Performance with Next JS</h6><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>In addition to SSR, Next JS offers static site generation (SSG), enabling the generation of static HTML files at build time. This approach ensures rapid page loads and efficient caching strategies, making Next JS ideal for websites requiring high performance and scalability.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h6>Versatility Across Industries</h6><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                </Row>
-                <Row className="bxuirt2">
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>From e-commerce platforms to content management systems, React JS and Next JS cater to diverse industries and use cases. Their robust features and active community support contribute to their widespread adoption, empowering developers to create innovative and responsive web solutions.</p>
                         </div>
                     </Col>
                 </Row>
