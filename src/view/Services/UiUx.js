@@ -15,7 +15,7 @@ function UiUx() {
                     <img src={process.env.PUBLIC_URL + "/Assets/services/uiux.jpg"} className="App-banner" alt="logo" />
                     <div style={{ position: "relative" }}>
                         <div className="head_wrapper">
-                            <h1><span id="head_main">Ui Ux Design </span></h1>
+                            <h1><span id="head_main">Ui / Ux Design </span></h1>
                             <p><span id="head_para">UI/UX design focuses on creating seamless and intuitive user experiences through thoughtful interface design and user-centered principles. UI (User Interface) design involves the visual elements users interact with, such as buttons, menus, and icons, aiming to make interfaces aesthetically pleasing and easy to navigate. UX (User Experience) design, on the other hand, focuses on the overall experience of users as they interact with a product or service, ensuring it is efficient, enjoyable, and meets their needs.</span></p>
                         </div>
                     </div>
