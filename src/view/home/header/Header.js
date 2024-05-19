@@ -21,13 +21,13 @@ function Header() {
                             <Link className="linkWrapper" to="/webApplication">Buisness Pdf</Link>
                             <Link className="linkWrapper" to="/social-media">Social Media Post</Link>
                             <Link className="linkWrapper" to="/wordpress">Wordpress</Link>
-                            <Link className="linkWrapper" to="/reactjs">React Development</Link>
+                            <Link className="linkWrapper" to="/reactjs">React Next Development</Link>
                             <Link className="linkWrapper" to="/angular">Angular Development</Link>
                             <NavDropdown.Divider />
                             <Link className="linkWrapper" to="/android">Android Development</Link>
                             <Link className="linkWrapper" to="/flutter">Flutter app</Link>
                             <Link className="linkWrapper" to="/ios">Ios Development</Link>
-                            <Link className="linkWrapper" to="/hybrid">Hybrid Mobile App</Link>
+                            <Link className="linkWrapper" to="/hybrid">Native Hybrid Mobile App</Link>
                         </NavDropdown>
                         {/* <NavDropdown title="Solutions" id="navbarScrollingDropdown">
                             <NavDropdown.Item href="#action3">Solution</NavDropdown.Item>
