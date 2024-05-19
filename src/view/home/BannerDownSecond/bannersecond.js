@@ -21,11 +21,6 @@ function BannerSecond() {
                     </Col> 
                 </Row>
                 <Row className="bannerSecond_bx">
-                    <Col className="order2">
-                        <img src={process.env.PUBLIC_URL + "/Assets/requirtment.svg"} alt="logo" />
-                    </Col>
-                </Row>
-                <Row className="bannerSecond_bx">
                     <Col>
                         <img src={process.env.PUBLIC_URL + "/Assets/development.svg"} alt="logo" />
                     </Col>
