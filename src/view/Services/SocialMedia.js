@@ -190,7 +190,6 @@ function SocialMedia() {
                 </Row>
             </Container>
             <Client />
-            <GetInTouch />
             <Footer />
         </>
     )
