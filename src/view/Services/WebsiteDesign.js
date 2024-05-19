@@ -204,7 +204,6 @@ function WebsiteDesign() {
                 </Row>
             </Container>
             <Client />
-            <GetInTouch />
             <Footer />
         </>
     )
