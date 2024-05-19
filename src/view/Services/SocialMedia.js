@@ -15,9 +15,8 @@ function SocialMedia() {
                     <img src={process.env.PUBLIC_URL + "/Assets/services/socialmedia.jpg"} className="App-banner" alt="logo" />
                     <div style={{ position: "relative" }}>
                         <div className="head_wrapper">
-                            <h1><span id="head_main">SocialMedia DEVELOPMENT</span></h1>
-                            <p><span id="head_para">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</span></p>
-                            <button className="allBtnwrapper">GET IN TOUCH</button>
+                            <h1><span id="head_main">Social Media Management</span></h1>
+                            <p><span id="head_para">Let ASWebTech take the reins of your social media presence! Our Social Media Content Management service ensures your platforms stay vibrant, engaging, and on-brand. From strategic planning to creative content creation and timely scheduling, we've got you covered. Elevate your online presence with ASWebTech today! #SocialMediaManagement #ASWebTech"</span></p>
                         </div>
                     </div>
                 </Row>
@@ -25,54 +24,54 @@ function SocialMedia() {
             <Container>
                 <Row>
                     <div style={{ textAlign: "center", marginTop: "40px", marginBottom: "40px" }}>
-                        <h3>WordPress Development</h3>
+                        <h3>Social Media Management</h3>
                         <span class="content_bar"></span>
-                        <p>We undertake services that cater to commercial purpose to personal requirements. Our WordPress development team fulfills the needs of our customers with reflective and efficient website designs. In today's modern time, WordPress is a boosting factor in the digital world. Emstell is one of the leading WordPress development companies that strive to offer websites that are compatible with serving various needs of the business. Professionals from Emstell are dedicated to offering services of WordPress development and designing services.</p>
+                        <p>Ready to spark social media success? ASWebTech ignites your online presence with our innovative Social Media Content Management service. From crafting compelling posts to fostering meaningful interactions, we're your digital catalysts. Let's transform your social landscape together! #DigitalIgnition #ASWebTech.</p>
                     </div>
                 </Row>
             </Container>
             <Container>
-                <h3 style={{ textAlign: "center" }}>WHY CHOOSE AMBAB FOR MAGENTO DEVELOPMENT</h3>
+                <h3 style={{ textAlign: "center" }}>WHY CHOOSE AS WEB TECH FOR WEBSITE DEVELOPMENT</h3>
                 <span class="content_bar"></span>
                 <Row className="bxuirt">
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon" className="card_icon"></span>
-                                <Col><h4>Product Design</h4>
+                                <Col><h6>Consistent Brand Voice</h6>
                                     <span></span>
                                 </Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>We ensure that your brand voice remains consistent across all social media platforms, reinforcing your identity and values.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                    <Col><h4>Product Design</h4>
+                                    <Col><h6>Increased Engagementn</h6>
                                         <span></span>
                                     </Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>By crafting engaging content tailored to your audience's interests, we boost interaction and encourage meaningful conversations with your followers.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h6>Time and Resource Savings</h6><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>Outsourcing social media management to ASWebTech frees up your time and resources, allowing you to focus on other aspects of your business.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h6>Professionalism and Expertise</h6><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>Our team of social media experts brings professionalism and expertise to every post, enhancing your brand's credibility and reputation online.</p>
                         </div>
                     </Col>
                 </Row>
@@ -81,36 +80,36 @@ function SocialMedia() {
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h6>Creative Content Creation</h6><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>Our team of content creators produces high-quality, creative content, including graphics, videos, and captions, designed to capture attention and inspire engagement.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h6>Brand Monitoring and Reputation Management</h6><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>We monitor social media channels for mentions of your brand and promptly address any inquiries, comments, or concerns, helping to maintain a positive brand image and mitigate potential crises.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h6>Cost-Effective Solution</h6><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>Outsourcing your social media management to ASWebTech is a cost-effective solution compared to hiring an in-house team, providing access to a team of experienced professionals at a fraction of the cost.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h6>Flexibility and Scalability</h6><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>Our service is flexible and scalable to accommodate your evolving needs as your business grows. Whether you're launching a new product, running a promotional campaign, or expanding into new markets, we adapt our strategies accordingly.</p>
                         </div>
                     </Col>
                 </Row>
@@ -122,8 +121,9 @@ function SocialMedia() {
                     </Col>
                     <Col>
                         <div className="tex_word_wp">
-                            <h2>What is Lorem Ipsum?</h2>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.  A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p><b>Define Goals and Audience</b>: Start by defining clear, measurable goals for your social media presence. Determine who your target audience is and what platforms they use. Understanding your audience's demographics, interests, and behaviors will guide your content strategy.</p>
+                            <p><b>Develop a Content Strategy</b>: Create a content calendar outlining the types of content you'll post, frequency, and themes. Mix up your content with a variety of formats such as images, videos, blog posts, and infographics. Ensure your content aligns with your brand identity and provides value to your audience</p>
+                            <p<b>>Monitor and Manage Your Brand Reputation</b>: Monitor mentions of your brand across social media platforms. Address any negative feedback or complaints promptly and professionally. Showcase positive customer experiences and testimonials to enhance your brand reputation.</p>
                         </div>
                     </Col>
                 </Row>
