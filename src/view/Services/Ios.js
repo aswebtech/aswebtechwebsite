@@ -16,7 +16,7 @@ function Ios() {
                     <div style={{ position: "relative" }}>
                         <div className="head_wrapper">
                             <h1><span id="head_main">IOS DEVELOPMENT</span></h1>
-                            <p><span id="head_para">iOS development involves creating applications specifically for Apple's mobile devices, including iPhones, iPads, and iPod Touch devices. Developers use the Swift programming language, along with the iOS Software Development Kit (SDK) and Xcode IDE, to craft engaging and high-performance apps for the iOS ecosystem.</p>
+                            <p><span id="head_para">iOS development involves creating applications specifically for Apple's mobile devices, including iPhones, iPads, and iPod Touch devices. Developers use the Swift programming language, along with the iOS Software Development Kit (SDK) and Xcode IDE, to craft engaging and high-performance apps for the iOS ecosystem.</span></p>
                         </div>
                     </div>
                 </Row>
