@@ -12,7 +12,7 @@ function Footer() {
                     <Col>
                         <img src={process.env.PUBLIC_URL + "/Assets/white-logo.png"} className="App-logo"  alt="logo" />
                         <p>
-                            Welcome to ASWeb.Tech, where innovation meets design excellence. We are a leading website designing company committed to crafting digital experiences that captivate, engage, and inspire with the motto of developing a 'Website For Everyone'. 
+                           AS Web.Tech: Innovating designs, crafting captivating digital experiences, and creating accessible websites for all.
                         </p>
                     </Col>
                     <Col>
