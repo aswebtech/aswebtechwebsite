@@ -84,8 +84,9 @@ function Reactjs() {
                     </Col>
                     <Col>
                         <div className="tex_word_wp">
-                            <h2>What is Lorem Ipsum?</h2>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.  A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <h2>Building Modern Web Solutions</h2>
+                            <p> React JS and Next JS offer a modern and efficient approach to web development, empowering developers to create engaging and responsive websites. Whether you're a seasoned developer or just starting, these frameworks provide the tools and flexibility needed to bring your ideas to life and drive success in the digital world.</p>
+                            <p> Next JS extends the capabilities of React by offering server-side rendering, enabling faster page loads and improved SEO performance. Additionally, Next JS provides built-in routing, code splitting, and static site generation features, empowering developers to optimize performance and scalability effortlessly.</p>
                         </div>
                     </Col>
                 </Row>
@@ -152,7 +153,6 @@ function Reactjs() {
                 </Row>
             </Container>
             <Client />
-            <GetInTouch />
             <Footer />
         </>
     )
