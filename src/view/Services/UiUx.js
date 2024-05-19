@@ -205,7 +205,6 @@ function UiUx() {
                 </Row>
             </Container>
             <Client />
-            <GetInTouch />
             <Footer />
         </>
     )
