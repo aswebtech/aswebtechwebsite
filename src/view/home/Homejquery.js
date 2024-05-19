@@ -2,7 +2,7 @@ import $ from 'jquery';
 
 (function(){
     var words = [
-        'Website Development:',
+        'Website Development',
         'Logo Design',
         'Social Media Management',
         'UI/UX Design',
