@@ -121,9 +121,24 @@ function Logo() {
                         <img src={process.env.PUBLIC_URL + "/Assets/services/Group7.svg"} alt="logo" />
                     </Col>
                     <Col>
-                        <div className="tex_word_wp">
-                            <h2>What is Lorem Ipsum?</h2>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.  A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                       <div className="tex_word_wp">
+                            <h2>Our Services.</h2>
+                            <ul>
+                                <li>Social Media Post</li>
+                                <li>Magazines</li>
+                                <li>Brochures</li>
+                                <li>Posters</li>
+                                <li>Banners</li>
+                                <li>Presentation</li>
+                                <li>e books</li>
+                                <li>Illustration</li>
+                                <li>Digital painting </li>
+                                <li>Photo Editing </li>
+                                <li>Video editing </li>
+                                <li>Animation</li>
+                                <li>Ui/Ux</li>
+                                <li>Prototypes</li>
+                            </ul>
                         </div>
                     </Col>
                 </Row>
@@ -132,7 +147,7 @@ function Logo() {
                     <Container>
                         <Row style={{marginTop:"40px"}}>
                             <Col className="bx_wrapper"><h2>Why we are an ideal choice for you?</h2></Col>
-                            <Col className="bx_wrapper"><h5>Agile. Transparent. Collaborative. Time Tested. Our approach in product development helps you make the right choice for your users. Agile. Transparent. Collaborative. Time Tested. Our approach in product development</h5></Col>
+                           <Col className="bx_wrapper"><h5>We stand out as your ideal choice due to our extensive experience and steadfast dedication to achieving your goals, guaranteeing exceptional service and outcomes in the digital sphere.</h5></Col>
                         </Row>
                         <Row>
                             <Col className="bx_wrapper">
