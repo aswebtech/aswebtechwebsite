@@ -138,7 +138,6 @@ function Ios() {
                 </Row>
             </Container>
             <Client />
-            <GetInTouch />
             <Footer />
         </>
     )
