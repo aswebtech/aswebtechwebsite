@@ -61,9 +61,9 @@ function WebsiteDesign() {
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h4>User Experience</h4><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>We place a strong emphasis on user experience (UX) design, ensuring that your website not only looks great but also provides an intuitive and enjoyable browsing experience for your visitors.</p>
                         </div>
                     </Col>
                     <Col>
