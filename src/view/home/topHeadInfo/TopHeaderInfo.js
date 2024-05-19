@@ -8,6 +8,8 @@ function TopHeaderInfo() {
                     <Container>
                     <Row>
                         <ul>
+                            <li><a href="">+one</a></li>
+                            <li><a href="">+two</a></li>
                             <li><a href="">+8630081871</a></li>
                             <li><a href="">WhatsApp Now</a></li>
                         </ul>
