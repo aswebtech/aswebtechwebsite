@@ -192,7 +192,6 @@ function Laravel() {
                 </Row>
             </Container>
             <Client />
-            <GetInTouch />
             <Footer />
         </>
     )
