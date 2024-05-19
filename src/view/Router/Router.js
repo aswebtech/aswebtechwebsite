@@ -26,11 +26,11 @@ import Page from "../portfolio/pages";
 import TermsCondition from "../termsAndCond/TermsCondition";
 import Career from "../career/Career";
 import Login from "../admin/Login";
-
+import history from './history';
 function Router(){
   return(
     <>
-      <Routes>
+      <Routes history={history}>
         <Route exact path="/" element={ <Home/> } />
         <Route exact path="wordpress" element={ <Wordpress/> } />
         <Route exact path="laravel" element={ <Laravel/> } />
