@@ -87,7 +87,7 @@ function Android() {
                 </Row>
             </Container>
             <Container fluid>
-                    <Container>
+                   <Container>
                         <Row style={{marginTop:"40px"}}>
                             <Col className="bx_wrapper"><h2>Why we are an ideal choice for you?</h2></Col>
                             <Col className="bx_wrapper"><h5>Agile. Transparent. Collaborative. Time Tested. Our approach in product development helps you make the right choice for your users. Agile. Transparent. Collaborative. Time Tested. Our approach in product development</h5></Col>
@@ -95,14 +95,14 @@ function Android() {
                         <Row>
                             <Col className="bx_wrapper">
                                 <img src={process.env.PUBLIC_URL + "/Assets/services/1circle.png"} alt="logo" />
-                               <div><h4>10+ years Market Experience</h4>
-                                <p>We understand the security of your idea and data is a big concern, so we make sure that it is well protected by our non-disclosure agreement.</p>
+                               <div><h4>5+ years Market Experience</h4>
+                                <p>Bringing five years of expertise to every project, ASWebTech delivers unparalleled solutions with a track record of excellence in the digital realm</p>
                                 </div>
                             </Col>
                             <Col className="bx_wrapper">
                                 <img src={process.env.PUBLIC_URL + "/Assets/services/2circle.png"} alt="logo" />
                                <div> <h4>100% Transparency and Quality</h4>
-                                <p>We understand the security of your idea and data is a big concern, so we make sure that it is well protected by our non-disclosure agreement.</p>
+                                <p>At ASWebTech, we ensure 100% transparency in quality, delivering top-notch solutions with integrity and clarity every step of the way.</p>
                                 </div>
                             </Col>
                         </Row>
@@ -110,13 +110,13 @@ function Android() {
                             <Col className="bx_wrapper">
                                 <img src={process.env.PUBLIC_URL + "/Assets/services/3circle.png"} alt="logo" />
                                <div> <h4>Affordable pricing and Time Delivery</h4>
-                                <p>We understand the security of your idea and data is a big concern, so we make sure that it is well protected by our non-disclosure agreement.</p>
+                                <p>We offer affordable pricing without compromising quality, ensuring timely delivery of exceptional solutions that exceed expectations.</p>
                                 </div>
                             </Col>
                             <Col className="bx_wrapper">
                                 <img src={process.env.PUBLIC_URL + "/Assets/services/4circle.png"} alt="logo" />
                                <div> <h4>Expert Certified Professionals</h4>
-                                <p>We understand the security of your idea and data is a big concern, so we make sure that it is well protected by our non-disclosure agreement.</p>
+                                <p>Home to expert certified professionals dedicated to crafting outstanding digital solutions tailored to your needs.</p>
                                 </div>
                             </Col>
                         </Row>
@@ -124,13 +124,13 @@ function Android() {
                             <Col className="bx_wrapper">
                                 <img src={process.env.PUBLIC_URL + "/Assets/services/5circle.png"} alt="logo" />
                                <div> <h4>Post Delivery Support</h4>
-                                <p>We understand the security of your idea and data is a big concern, so we make sure that it is well protected by our non-disclosure agreement.</p>
+                                <p>At ASWebTech, our commitment doesn't end at delivery. We provide comprehensive post-delivery support, ensuring your continued success in the digital landscape.</p>
                                 </div>
                             </Col>
                             <Col className="bx_wrapper">
                                 <img src={process.env.PUBLIC_URL + "/Assets/services/6circle.png"} alt="logo" />
                                <div> <h4>Continues Engagements</h4>
-                                <p>We understand the security of your idea and data is a big concern, so we make sure that it is well protected by our non-disclosure agreement.</p>
+                                <p>To foster ongoing engagement, ASWebTech remains dedicated to nurturing relationships beyond delivery, ensuring sustained success and growth for your digital endeavors.</p>
                                 </div>
                             </Col>
                         </Row>
