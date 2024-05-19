@@ -16,8 +16,7 @@ function Ios() {
                     <div style={{ position: "relative" }}>
                         <div className="head_wrapper">
                             <h1><span id="head_main">IOS DEVELOPMENT</span></h1>
-                            <p><span id="head_para">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</span></p>
-                            <button className="allBtnwrapper">GET IN TOUCH</button>
+                            <p><span id="head_para">iOS development involves creating applications specifically for Apple's mobile devices, including iPhones, iPads, and iPod Touch devices. Developers use the Swift programming language, along with the iOS Software Development Kit (SDK) and Xcode IDE, to craft engaging and high-performance apps for the iOS ecosystem.</p>
                         </div>
                     </div>
                 </Row>
@@ -25,9 +24,9 @@ function Ios() {
             <Container>
                 <Row>
                     <div style={{ textAlign: "center", marginTop: "40px", marginBottom: "40px" }}>
-                        <h3>WordPress Development</h3>
+                        <h3>Crafting Seamless Experiences: IOS Development Essentials</h3>
                         <span class="content_bar"></span>
-                        <p>We undertake services that cater to commercial purpose to personal requirements. Our WordPress development team fulfills the needs of our customers with reflective and efficient website designs. In today's modern time, WordPress is a boosting factor in the digital world. Emstell is one of the leading WordPress development companies that strive to offer websites that are compatible with serving various needs of the business. Professionals from Emstell are dedicated to offering services of WordPress development and designing services.</p>
+                        <p>Apple's commitment to user privacy and security is reflected in its development guidelines and review process, ensuring that apps meet high standards of quality and reliability before they are published on the App Store.</p>
                     </div>
                 </Row>
             </Container>
