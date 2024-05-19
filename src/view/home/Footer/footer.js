@@ -12,7 +12,7 @@ function Footer() {
                     <Col>
                         <img src={process.env.PUBLIC_URL + "/Assets/white-logo.png"} className="App-logo"  alt="logo" />
                         <p>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.
+                            Welcome to ASWeb.Tech, where innovation meets design excellence. We are a leading website designing company committed to crafting digital experiences that captivate, engage, and inspire with the motto of developing a 'Website For Everyone'. 
                         </p>
                     </Col>
                     <Col>
