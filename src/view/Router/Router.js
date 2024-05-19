@@ -31,31 +31,31 @@ function Router(){
   return(
     <>
       <Routes>
-        <Route path="/" element={ <Home/> } />
-        <Route path="wordpress" element={ <Wordpress/> } />
-        <Route path="laravel" element={ <Laravel/> } />
-        <Route path="php" element={ <Php/> } />
-        <Route path="android" element={ <Android/> } />
-        <Route path="magento" element={ <Magento/> } />
-        <Route path="flutter" element={ <Flutter/> } />
-        <Route path="ios" element={ <Ios/> } />
-        <Route path="reactjs" element={ <Reactjs/> } />
-        <Route path="angular" element={ <Angular/> } />
-        <Route path="websiteDesign" element={ <WebsiteDesign/> } />
-        <Route path="hybrid" element={ <Hybrid/> } />
-        <Route path="payment-gateway" element={ <PaymentGateway/> } />
-        <Route path="graphic-design" element={ <GraphicDesign/> } />
-        <Route path="figma-design" element={ <FigmaDesign/> } />
-        <Route path="ui-ux" element={ <UiUx/> } />
-        <Route path="logo-design" element={ <Logo/> } />
-        <Route path="social-media" element={ <SocialMedia/> } />
-        <Route path="about-us" element={ <AboutUs/> } />
-        <Route path="contact-us" element={ <ContactUs/> } />
-        <Route path="portfolio" element={ <Portfolio/> } />
-        <Route path="pages/:id/:slug" element={ <Page/> } />
-        <Route path="career" element={ <Career/> } />
-        <Route path="terms-and-Condition" element={ <TermsCondition/> } />
-        <Route path="admin" element={ <Login/> } />
+        <Route exact path="/" element={ <Home/> } />
+        <Route exact path="wordpress" element={ <Wordpress/> } />
+        <Route exact path="laravel" element={ <Laravel/> } />
+        <Route exact path="php" element={ <Php/> } />
+        <Route exact path="android" element={ <Android/> } />
+        <Route exact path="magento" element={ <Magento/> } />
+        <Route exact path="flutter" element={ <Flutter/> } />
+        <Route exact path="ios" element={ <Ios/> } />
+        <Route exact path="reactjs" element={ <Reactjs/> } />
+        <Route exact path="angular" element={ <Angular/> } />
+        <Route exact path="websiteDesign" element={ <WebsiteDesign/> } />
+        <Route exact path="hybrid" element={ <Hybrid/> } />
+        <Route exact path="payment-gateway" element={ <PaymentGateway/> } />
+        <Route exact path="graphic-design" element={ <GraphicDesign/> } />
+        <Route exact path="figma-design" element={ <FigmaDesign/> } />
+        <Route exact path="ui-ux" element={ <UiUx/> } />
+        <Route exact path="logo-design" element={ <Logo/> } />
+        <Route exact path="social-media" element={ <SocialMedia/> } />
+        <Route exact path="about-us" element={ <AboutUs/> } />
+        <Route exact path="contact-us" element={ <ContactUs/> } />
+        <Route exact path="portfolio" element={ <Portfolio/> } />
+        <Route exact path="pages/:id/:slug" element={ <Page/> } />
+        <Route exact path="career" element={ <Career/> } />
+        <Route exact path="terms-and-Condition" element={ <TermsCondition/> } />
+        <Route exact path="admin" element={ <Login/> } />
       </Routes>
     </>
   )
