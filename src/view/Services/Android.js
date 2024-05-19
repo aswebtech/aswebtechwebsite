@@ -16,8 +16,7 @@ function Android() {
                     <div style={{ position: "relative" }}>
                         <div className="head_wrapper">
                             <h1><span id="head_main">Android DEVELOPMENT</span></h1>
-                            <p><span id="head_para">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</span></p>
-                            <button className="allBtnwrapper">GET IN TOUCH</button>
+                            <p><span id="head_para">Android development involves creating applications for devices running the Android operating system, ranging from smartphones and tablets to wearables and IoT devices. Leveraging the Android SDK (Software Development Kit) and programming languages like Java or Kotlin, developers can craft versatile and feature-rich applications tailored to diverse user needs.</span></p>
                         </div>
                     </div>
                 </Row>
@@ -25,92 +24,50 @@ function Android() {
             <Container>
                 <Row>
                     <div style={{ textAlign: "center", marginTop: "40px", marginBottom: "40px" }}>
-                        <h3>WordPress Development</h3>
+                        <h3>Crafting Dynamic Experiences: Android Development Essentials</h3>
                         <span class="content_bar"></span>
-                        <p>We undertake services that cater to commercial purpose to personal requirements. Our WordPress development team fulfills the needs of our customers with reflective and efficient website designs. In today's modern time, WordPress is a boosting factor in the digital world. Emstell is one of the leading WordPress development companies that strive to offer websites that are compatible with serving various needs of the business. Professionals from Emstell are dedicated to offering services of WordPress development and designing services.</p>
+                        <p>Android development offers extensive capabilities, including access to hardware sensors, location services, and multimedia functionalities, enabling developers to create immersive and innovative experiences. Moreover, the platform provides robust tools for user interface design, data storage, and networking, empowering developers to build responsive and scalable applications.</p>
                     </div>
                 </Row>
             </Container>
             <Container>
-                <h3 style={{ textAlign: "center" }}>WHY CHOOSE AMBAB FOR MAGENTO DEVELOPMENT</h3>
+                <h3 style={{ textAlign: "center" }}>WHY CHOOSE AS WEB TECH FOR WEBSITE DEVELOPMENT</h3>
                 <span class="content_bar"></span>
-                <Row className="bxuirt">
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon" className="card_icon"></span>
-                                <Col><h4>Product Design</h4>
-                                    <span></span>
-                                </Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon"></span>
-                                    <Col><h4>Product Design</h4>
-                                        <span></span>
-                                    </Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                </Row>
                 <Row className="bxuirt2">
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h6>Exploring the Realm of Android Development</h6><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>Android development stands at the forefront of mobile technology, offering developers a robust platform to create diverse and innovative applications. From smartphones to wearables, Android provides a versatile ecosystem for crafting dynamic experiences tailored to modern user needs.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h6>Understanding the Android SDK</h6><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>At the core of Android development lies the Android Software Development Kit (SDK), which provides a comprehensive set of tools, libraries, and APIs for building applications. Developers leverage these resources to access device features, manage user interfaces, and interact with system services.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h6>Powering Android Applications</h6><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>Java and Kotlin serve as the primary programming languages for Android development, offering developers flexibility and efficiency in crafting code. While Java has long been the standard choice, Kotlin has gained popularity for its concise syntax and enhanced features, making development faster and more enjoyable.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h4>Creating Engaging Experiences</h4><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>User interface (UI) design plays a crucial role in Android development, shaping the overall user experience. Developers utilize tools like XML layouts and the Android Studio visual editor to design intuitive interfaces that are visually appealing and easy to navigate.</p>
                         </div>
                     </Col>
                 </Row>
@@ -122,8 +79,9 @@ function Android() {
                     </Col>
                     <Col>
                         <div className="tex_word_wp">
-                            <h2>What is Lorem Ipsum?</h2>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.  A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <h2>What is Google Play Store In Android?</h2>
+                            <p>With the Google Play Store serving as the primary distribution platform, Android developers can reach a global audience and monetize their applications through various monetization models like in-app purchases, subscriptions, and advertisements.</p>
+                            <p>The Google Play Store serves as the primary distribution platform for Android applications, providing developers with a vast audience reach. Developers navigate the app submission process, optimize metadata and assets, and employ app monetization strategies to maximize visibility and revenue.</p>
                         </div>
                     </Col>
                 </Row>
