@@ -65,7 +65,7 @@ function Android() {
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Creating Engaging Experiences</h4><span></span></Col>
+                                <Col><h6>Creating Engaging Experiences</h6><span></span></Col>
                             </Row>
                             <p>User interface (UI) design plays a crucial role in Android development, shaping the overall user experience. Developers utilize tools like XML layouts and the Android Studio visual editor to design intuitive interfaces that are visually appealing and easy to navigate.</p>
                         </div>
