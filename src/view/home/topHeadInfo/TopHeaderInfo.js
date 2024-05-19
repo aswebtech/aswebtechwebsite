@@ -10,8 +10,8 @@ function TopHeaderInfo() {
                         <ul>
                             <li><a href=""></a></li>
                             <li><a href=""></a></li>
-                            <li><a href="">+8630081871</a></li>
-                            <li><a href="">WhatsApp Now</a></li>
+                            <li><a href="">+8676006175</a></li>
+                            <li><a href="https://wa.me/8676006175">WhatsApp Now</a></li>
                         </ul>
                     </Row>
                     </Container>
