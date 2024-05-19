@@ -17,7 +17,7 @@ function BannerSecond() {
                     <Col style={{boxShadow: "rgba(17, 12, 46, 0.15) 0px 48px 100px 0px",marginTop:"30px"}}>
                         <h2 style={{ textAlign: "center",marginTop:"30px" }}>Who Are We?</h2>
                         <span className="content_bar"></span>
-                        <p style={{textAlign:"center"}}>Investment in innovation is the need of the hour in this increasingly digitised world. Our strategists and<br></br> innovation experts help drive each project, allowing businesses to grow. By leveraging our expertise in IT,<br></br> firms can reinvent their businesses to create exceptional, sustainable value from their investments</p>
+                        <p style={{textAlign:"center"}}>At AsWebTech, we foster a culture of collaboration, creativity, and continuous learning. Our team members are passionate about their work and dedicated to staying at the forefront of industry trends and technologies. We prioritize work-life balance and provide a supportive environment where employees can thrive and grow both personally and professionally.</p>
                     </Col> 
                 </Row>
                 <Row className="bannerSecond_bx">
