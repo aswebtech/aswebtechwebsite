@@ -31,7 +31,7 @@ function GraphicDesign() {
                 </Row>
             </Container>
             <Container>
-                <h3 style={{ textAlign: "center" }}>WHY CHOOSE AMBAB FOR MAGENTO DEVELOPMENT</h3>
+                <h3 style={{ textAlign: "center" }}>WHY CHOOSE AS WEB TECH FOR WEBSITE DEVELOPMENT</h3>
                 <span class="content_bar"></span>
                 <Row className="bxuirt">
                     <Col>
