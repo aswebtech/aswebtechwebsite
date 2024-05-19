@@ -130,47 +130,47 @@ function Wordpress() {
                     <Container>
                         <Row style={{marginTop:"40px"}}>
                             <Col className="bx_wrapper"><h2>Why we are an ideal choice for you?</h2></Col>
-                            <Col className="bx_wrapper"><h5>At AS Web Tech, you get the solutions to all your WordPress related problems, such as</h5></Col>
+                            <Col className="bx_wrapper"><h5>Agile. Transparent. Collaborative. Time Tested. Our approach in product development helps you make the right choice for your users. Agile. Transparent. Collaborative. Time Tested. Our approach in product development</h5></Col>
                         </Row>
                         <Row>
                             <Col className="bx_wrapper">
                                 <img src={process.env.PUBLIC_URL + "/Assets/services/1circle.png"} alt="logo" />
-                               <div><h4>Customised WordPress development</h4>
-                                <p>Our expert professionals help you create and develop a customised WordPress website based on your needs and preferences at a very affordable cost. We help you in extending your website’s capabilities using API integrations. </p>
+                               <div><h4>5+ years Market Experience</h4>
+                                <p>Bringing five years of expertise to every project, ASWebTech delivers unparalleled solutions with a track record of excellence in the digital realm</p>
                                 </div>
                             </Col>
                             <Col className="bx_wrapper">
                                 <img src={process.env.PUBLIC_URL + "/Assets/services/2circle.png"} alt="logo" />
-                               <div> <h4>WordPress design solutions</h4>
-                                <p>At AS Web Tech, we provide you with your WordPress website's best functionality and appearance. We help our clients in developing scalable and engaging themes in innovative ways.</p>
+                               <div> <h4>100% Transparency and Quality</h4>
+                                <p>At ASWebTech, we ensure 100% transparency in quality, delivering top-notch solutions with integrity and clarity every step of the way.</p>
                                 </div>
                             </Col>
                         </Row>
                         <Row>
                             <Col className="bx_wrapper">
                                 <img src={process.env.PUBLIC_URL + "/Assets/services/3circle.png"} alt="logo" />
-                               <div> <h4>PSD to WordPress conversion</h4>
-                                <p>Our expert professionals at AS Web Tech help you convert all your PSD files into a high-end functioning WordPress website. We promise to provide a bug-free, fast, and responsive PSD to WordPress conversion of your website.</p>
+                               <div> <h4>Affordable pricing and Time Delivery</h4>
+                                <p>We offer affordable pricing without compromising quality, ensuring timely delivery of exceptional solutions that exceed expectations.</p>
                                 </div>
                             </Col>
                             <Col className="bx_wrapper">
                                 <img src={process.env.PUBLIC_URL + "/Assets/services/4circle.png"} alt="logo" />
-                               <div> <h4>WordPress plugin development</h4>
-                                <p>We understand the importance of diverse business needs. Hence, to cater to them, we follow the best practices to integrate the plugins and provide a wide range of functionalities to your WordPress website.</p>
+                               <div> <h4>Expert Certified Professionals</h4>
+                                <p>Home to expert certified professionals dedicated to crafting outstanding digital solutions tailored to your needs.</p>
                                 </div>
                             </Col>
                         </Row>
                         <Row>
                             <Col className="bx_wrapper">
                                 <img src={process.env.PUBLIC_URL + "/Assets/services/5circle.png"} alt="logo" />
-                               <div> <h4>WordPress bug fixation</h4>
-                                <p>With years of expertise in the field, AS Web Tech’s professionals can easily fix all the bugs associated with your WordPress website and provide you with a seamless and glitch-free experience. Our team constantly works on testing the functionality and quality of your WordPress website to ensure its optimum performance.</p>
+                               <div> <h4>Post Delivery Support</h4>
+                                <p>At ASWebTech, our commitment doesn't end at delivery. We provide comprehensive post-delivery support, ensuring your continued success in the digital landscape.</p>
                                 </div>
                             </Col>
                             <Col className="bx_wrapper">
                                 <img src={process.env.PUBLIC_URL + "/Assets/services/6circle.png"} alt="logo" />
-                               <div> <h4>WordPress migration</h4>
-                                <p>Technically, WordPress migration sounds very complex. However, you don’t need to worry about that. Our IT experts can easily switch your website host without losing any of your website data. We carry on the entire migration process smoothly and seamlessly.</p>
+                               <div> <h4>Continues Engagements</h4>
+                                <p>To foster ongoing engagement, ASWebTech remains dedicated to nurturing relationships beyond delivery, ensuring sustained success and growth for your digital endeavors.</p>
                                 </div>
                             </Col>
                         </Row>
