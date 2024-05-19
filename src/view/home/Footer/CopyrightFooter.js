@@ -6,7 +6,7 @@ function CopyrightFooter() {
         <>
             <Container fluid style={{background:"#252628"}}>
                 <Row>
-                    <p style={{textAlign:"center",color:"#fff"}}>This site use cookies. AS Web Copyrights (new Date().getFullYear()) ©  Technologies Pvt Ltd. | All Rights Reserved.</p>
+                    <p style={{textAlign:"center",color:"#fff"}}>This site use cookies. AS Web Copyrights 2024 ©  Technologies Pvt Ltd. | All Rights Reserved.</p>
                 </Row>
             </Container>
         </>
