@@ -16,8 +16,7 @@ function GraphicDesign() {
                     <div style={{ position: "relative" }}>
                         <div className="head_wrapper">
                             <h1><span id="head_main">Graphic Design</span></h1>
-                            <p><span id="head_para">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</span></p>
-                            <button className="allBtnwrapper">GET IN TOUCH</button>
+                            <p><span id="head_para">Unlock your brand's potential with stunning visuals crafted by our expert graphic designers. From captivating logos to eye-catching marketing materials, we bring your ideas to life with creativity and precision. Elevate your brand presence and make a lasting impression with our bespoke graphic design solutions. Let's turn your vision into visual masterpieces that resonate with your audience.</span></p>
                         </div>
                     </div>
                 </Row>
