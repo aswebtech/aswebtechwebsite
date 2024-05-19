@@ -21,12 +21,12 @@ function BannerSecond() {
                     </Col> 
                 </Row>
                 <Row className="bannerSecond_bx">
-                    <Col className="order1" style={{ margin: "auto" }}>
-                        <h2 style={{ textAlign: "center" }}>Recruitment</h2>
-                        <span className="content_bar"></span>
-                        <p>Quickly build an in-house team of experts by delegating recruitment activities. From subordinate to the top post, we find you the ideal professional to bolster your workforce. Our competitive recruitment assessments are designed to help you create the perfect team. With our extensive national and international networks, our workforce solutions are designed to assist you in identifying the top talent across industries and locations. From staffing to retention, we provide acomprehensive list of services in the field to guide you through the entire journey.
-                        </p>
-                    </Col>
+                    // <Col className="order1" style={{ margin: "auto" }}>
+                    //     <h2 style={{ textAlign: "center" }}>Recruitment</h2>
+                    //     <span className="content_bar"></span>
+                    //     <p>Quickly build an in-house team of experts by delegating recruitment activities. From subordinate to the top post, we find you the ideal professional to bolster your workforce. Our competitive recruitment assessments are designed to help you create the perfect team. With our extensive national and international networks, our workforce solutions are designed to assist you in identifying the top talent across industries and locations. From staffing to retention, we provide acomprehensive list of services in the field to guide you through the entire journey.
+                    //     </p>
+                    // </Col>
                     <Col className="order2">
                         <img src={process.env.PUBLIC_URL + "/Assets/requirtment.svg"} alt="logo" />
                     </Col>
