@@ -83,8 +83,23 @@ function FigmaDesign() {
                     </Col>
                     <Col>
                         <div className="tex_word_wp">
-                            <h2>What is Lorem Ipsum?</h2>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.  A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <h2>Our Services.</h2>
+                            <ul>
+                                <li>Social Media Post</li>
+                                <li>Magazines</li>
+                                <li>Brochures</li>
+                                <li>Posters</li>
+                                <li>Banners</li>
+                                <li>Presentation</li>
+                                <li>e books</li>
+                                <li>Illustration</li>
+                                <li>Digital painting </li>
+                                <li>Photo Editing </li>
+                                <li>Video editing </li>
+                                <li>Animation</li>
+                                <li>Ui/Ux</li>
+                                <li>Prototypes</li>
+                            </ul>
                         </div>
                     </Col>
                 </Row>
