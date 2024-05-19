@@ -123,7 +123,7 @@ function SocialMedia() {
                         <div className="tex_word_wp">
                             <p><b>Define Goals and Audience</b>: Start by defining clear, measurable goals for your social media presence. Determine who your target audience is and what platforms they use. Understanding your audience's demographics, interests, and behaviors will guide your content strategy.</p>
                             <p><b>Develop a Content Strategy</b>: Create a content calendar outlining the types of content you'll post, frequency, and themes. Mix up your content with a variety of formats such as images, videos, blog posts, and infographics. Ensure your content aligns with your brand identity and provides value to your audience</p>
-                            <p<b>Monitor and Manage Your Brand Reputation</b>: Monitor mentions of your brand across social media platforms. Address any negative feedback or complaints promptly and professionally. Showcase positive customer experiences and testimonials to enhance your brand reputation.</p>
+                            <p><b>Monitor and Manage Your Brand Reputation</b>: Monitor mentions of your brand across social media platforms. Address any negative feedback or complaints promptly and professionally. Showcase positive customer experiences and testimonials to enhance your brand reputation.</p>
                         </div>
                     </Col>
                 </Row>
