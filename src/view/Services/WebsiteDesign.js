@@ -16,9 +16,8 @@ function WebsiteDesign() {
                     <img src={process.env.PUBLIC_URL + "/Assets/services/websitedesign.jpg"} className="App-banner" alt="logo" />
                     <div style={{ position: "relative" }}>
                         <div className="head_wrapper">
-                            <h1><span id="head_main">WebsiteDesign DEVELOPMENT</span></h1>
-                            <p><span id="head_para">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</span></p>
-                            <button className="allBtnwrapper">GET IN TOUCH</button>
+                            <h1><span id="head_main">Website Design</span></h1>
+                            <p><span id="head_para">Crafting captivating digital experiences, we sculpt websites that resonate with your brand's essence. Elevate your online presence with our expert design solutions.</span></p>
                         </div>
                     </div>
                 </Row>
