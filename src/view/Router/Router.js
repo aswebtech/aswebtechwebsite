@@ -51,7 +51,7 @@ function Router(){
         <Route exact path="social-media" element={ <SocialMedia/> } />
         <Route exact path="about-us" element={ <AboutUs/> } />
         <Route exact path="contact-us" element={ <ContactUs/> } />
-        <Route exact path="portfolio" element={ <Portfolio/> } />
+        <Route exact path='/portfolio' element={ <Portfolio/> } />
         <Route exact path="pages/:id/:slug" element={ <Page/> } />
         <Route exact path="career" element={ <Career/> } />
         <Route exact path="terms-and-Condition" element={ <TermsCondition/> } />
