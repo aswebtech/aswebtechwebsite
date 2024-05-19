@@ -16,7 +16,7 @@ function Home(){
             <Banner/>
             <BannerSecond></BannerSecond>
             <GetInTouch/>
-            <Testimonial/>
+            // <Testimonial/>
             <Client/>
             <Footer/>
         </>
