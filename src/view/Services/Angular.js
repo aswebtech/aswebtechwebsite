@@ -15,9 +15,8 @@ function Laravel() {
                     <img src={process.env.PUBLIC_URL + "/Assets/services/angular.jpg"} className="App-banner" alt="logo" />
                     <div style={{ position: "relative" }}>
                         <div className="head_wrapper">
-                            <h1><span id="head_main">LARAVEL DEVELOPMENT</span></h1>
-                            <p><span id="head_para">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</span></p>
-                            <button className="allBtnwrapper">GET IN TOUCH</button>
+                            <h1><span id="head_main">Angular Js</span></h1>
+                            <p><span id="head_para">AngularJS is a comprehensive JavaScript framework that facilitates the development of dynamic and robust websites with rich user interfaces. Leveraging its Model-View-Controller (MVC) architecture, AngularJS enables developers to build scalable and maintainable web applications. With its two-way data binding feature, changes made in the user interface automatically reflect in the underlying data model, streamlining development and enhancing user interaction.</span></p>
                         </div>
                     </div>
                 </Row>
@@ -25,54 +24,56 @@ function Laravel() {
             <Container>
                 <Row>
                     <div style={{ textAlign: "center", marginTop: "40px", marginBottom: "40px" }}>
-                        <h3>WordPress Development</h3>
+                        <h3>Empowering Web Development with AngularJS </h3>
                         <span class="content_bar"></span>
-                        <p>We undertake services that cater to commercial purpose to personal requirements. Our WordPress development team fulfills the needs of our customers with reflective and efficient website designs. In today's modern time, WordPress is a boosting factor in the digital world. Emstell is one of the leading WordPress development companies that strive to offer websites that are compatible with serving various needs of the business. Professionals from Emstell are dedicated to offering services of WordPress development and designing services.</p>
+                        <p>AngularJS also offers a plethora of built-in directives and modules that simplify common tasks such as form validation, routing, and animation. This accelerates the development process and ensures consistent implementation of best practices across the application.</p>
                     </div>
                 </Row>
             </Container>
             <Container>
-                <h3 style={{ textAlign: "center" }}>WHY CHOOSE AMBAB FOR MAGENTO DEVELOPMENT</h3>
+                <h3 style={{ textAlign: "center" }}>WHY CHOOSE AS WEB TECH FOR WEBSITE DEVELOPMENT</h3>
                 <span class="content_bar"></span>
                 <Row className="bxuirt">
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon" className="card_icon"></span>
-                                <Col><h4>Product Design</h4>
+                                <Col><h6>Structuring Web Applications</h6>
                                     <span></span>
                                 </Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>AngularJS adopts the Model-View-Controller (MVC) architecture, providing a clear separation of concerns. This architectural pattern enhances code organization and maintainability, enabling developers to manage complex applications with ease.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                    <Col><h4>Product Design</h4>
+                                    <Col><h6>Real-Time User Interaction</h6>
                                         <span></span>
                                     </Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>One of AngularJS's hallmark features is its two-way data binding, which synchronizes the data between the model and the view in real time. This bidirectional communication ensures that any changes made in the user interface are immediately reflected in the underlying data model.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h6>Community Support and Ecosystem</h6><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>AngularJS benefits from a vibrant and active community of developers, who contribute to its ecosystem by creating extensions, libraries, and plugins. This collaborative environment fosters innovation and ensures that AngularJS remains at the forefront of web development trends.
+
+</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h6>Streamlining Development Tasks</h6><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>AngularJS comes bundled with a rich set of built-in directives and modules, offering pre-defined functionalities for common tasks such as form validation, routing, and animation. This eliminates the need for developers to reinvent the wheel.</p>
                         </div>
                     </Col>
                 </Row>
