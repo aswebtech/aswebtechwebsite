@@ -122,8 +122,22 @@ function WebsiteDesign() {
                     </Col>
                     <Col>
                         <div className="tex_word_wp">
-                            <h2>What is Lorem Ipsum?</h2>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.  A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <h4>We served websites to these industries</h4>
+                            <p>CSS Founder has created websites for almost all industries, some of which are as follows</p>
+                            <ul>
+                            <li>Matrimonial Website</li>
+                            <li>Schooling & College Website</li>
+                            <li>Tour & Travel Website</li>
+                            <li>Blogging Website</li>
+                            <li>News Website</li>
+                            <li>Social Media Website</li>
+                            <li>B2B Service Website</li>
+                            <li>Law Firm Website</li>
+                            <li>Yoga Website</li>
+                            <li>Hospitality Website</li>
+                            <li>Real-Estate Website</li>
+                            <li>Interior Website</li>
+                            </ul>
                         </div>
                     </Col>
                 </Row>
