@@ -147,7 +147,7 @@ function Flutter() {
                         <div className="tex_word_wp_Four">
                             <h2>What people think.</h2>
                             <i class="fa fa-quote-right quotesbx" aria-hidden="true"></i>
-                            <p>At Aswebtech, we specialize in creating stunning websites and powerful mobile applications that drive business success. Our team of expert developers and designers are dedicated to delivering top-notch digital solutions tailored to meet your unique needs.</p>
+                            <p>ASWebTech has exceeded my expectations with their unparalleled expertise and dedication to my project. Their ability to understand and execute my vision flawlessly has truly set them apart. ASWebTech is not just a service provider but a valued partner in my business journey.</p>
                         </div>
                     </Col>
                 </Row>
