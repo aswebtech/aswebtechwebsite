@@ -142,13 +142,12 @@ function Android() {
                         <div className="tex_word_wp_Four">
                             <h2>What people think.</h2>
                             <i class="fa fa-quote-right quotesbx" aria-hidden="true"></i>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.  A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>At Aswebtech, we specialize in creating stunning websites and powerful mobile applications that drive business success. Our team of expert developers and designers are dedicated to delivering top-notch digital solutions tailored to meet your unique needs..</p>
                         </div>
                     </Col>
                 </Row>
             </Container>
             <Client />
-            <GetInTouch />
             <Footer />
         </>
     )
