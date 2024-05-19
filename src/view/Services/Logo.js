@@ -205,7 +205,6 @@ function Logo() {
                 </Row>
             </Container>
             <Client />
-            <GetInTouch />
             <Footer />
         </>
     )
