@@ -17,8 +17,7 @@ function Flutter() {
                     <div style={{ position: "relative" }}>
                         <div className="head_wrapper">
                             <h1><span id="head_main">FLUTTER DEVELOPMENT</span></h1>
-                            <p><span id="head_para">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</span></p>
-                            <button className="allBtnwrapper">GET IN TOUCH</button>
+                            <p><span id="head_para">Flutter development revolutionizes cross-platform app development by offering a comprehensive framework for building high-quality native applications for mobile, web, and desktop from a single codebase. Developed by Google, Flutter utilizes the Dart programming language to deliver fast, expressive, and flexible development experiences.</span></p>
                         </div>
                     </div>
                 </Row>
@@ -26,9 +25,9 @@ function Flutter() {
             <Container>
                 <Row>
                     <div style={{ textAlign: "center", marginTop: "40px", marginBottom: "40px" }}>
-                        <h3>WordPress Development</h3>
+                        <h3>Empowering Cross-Platform Development</h3>
                         <span class="content_bar"></span>
-                        <p>We undertake services that cater to commercial purpose to personal requirements. Our WordPress development team fulfills the needs of our customers with reflective and efficient website designs. In today's modern time, WordPress is a boosting factor in the digital world. Emstell is one of the leading WordPress development companies that strive to offer websites that are compatible with serving various needs of the business. Professionals from Emstell are dedicated to offering services of WordPress development and designing services.</p>
+                        <p>Flutter's layered architecture and reactive framework empower developers to build performant and scalable applications that run seamlessly on various platforms. Additionally, Flutter's extensive library of plugins and packages simplifies integration with native device features and third-party services.</p>
                     </div>
                 </Row>
             </Container>
@@ -40,78 +39,40 @@ function Flutter() {
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon" className="card_icon"></span>
-                                <Col><h4>Product Design</h4>
+                                <Col><h6>Revolutionizing App Development</h6>
                                     <span></span>
                                 </Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>Flutter has emerged as a game-changer in the realm of app development, offering developers a powerful framework for building cross-platform applications. With its innovative approach and robust features, Flutter streamlines the development process and enables the creation of high-quality native experiences for mobile, web, and desktop platforms.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                    <Col><h4>Product Design</h4>
+                                    <Col><h6>Creating Stunning Interfaces</h6>
                                         <span></span>
                                     </Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>Flutter's UI is built entirely using widgets, allowing developers to compose complex layouts and interactions with ease. From basic elements like buttons and text fields to advanced animations and gestures, Flutter's widget-based approach offers unparalleled flexibility and customization options.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h6>Seamlessly Across Devices</h6><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>Flutter apps are designed to adapt seamlessly to different screen sizes, resolutions, and device form factors. Whether running on a smartphone, tablet, or desktop computer, Flutter applications provide consistent and visually appealing experiences across platforms.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h6>Iterating at the Speed of Thought</h6><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                </Row>
-                <Row className="bxuirt2">
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>One of Flutter's standout features is hot reload, which enables developers to instantly see the effects of code changes reflected in the running app. This rapid iteration cycle enhances productivity and facilitates real-time experimentation and debugging.</p>
                         </div>
                     </Col>
                 </Row>
@@ -123,8 +84,9 @@ function Flutter() {
                     </Col>
                     <Col>
                         <div className="tex_word_wp">
-                            <h2>What is Lorem Ipsum?</h2>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.  A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <h2>Go With Flutter</h2>
+                            <p>Flutter boasts an extensive ecosystem of plugins and packages that simplify integration with native device features and third-party services. From accessing device sensors to integrating with platform-specific APIs, Flutter's plugins enable developers to leverage the full capabilities of each platform.</p>
+                            <p>Flutter benefits from a vibrant and supportive community of developers, who contribute to its ecosystem by creating plugins, packages, and tutorials. This active community, coupled with Google's ongoing support and updates, ensures that Flutter remains at the forefront of cross-platform app development.</p>
                         </div>
                     </Col>
                 </Row>
@@ -185,13 +147,12 @@ function Flutter() {
                         <div className="tex_word_wp_Four">
                             <h2>What people think.</h2>
                             <i class="fa fa-quote-right quotesbx" aria-hidden="true"></i>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.  A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>At Aswebtech, we specialize in creating stunning websites and powerful mobile applications that drive business success. Our team of expert developers and designers are dedicated to delivering top-notch digital solutions tailored to meet your unique needs.</p>
                         </div>
                     </Col>
                 </Row>
             </Container>
             <Client />
-            <GetInTouch />
             <Footer />
         </>
     )
