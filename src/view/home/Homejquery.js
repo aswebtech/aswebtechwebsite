@@ -27,6 +27,6 @@ import $ from 'jquery';
         $('#changingpara').fadeOut(function(){
             $(this).html(words[i=(i+1)%words.length]).fadeIn();
         });
-    }, 9000);
+    }, 4000);
       
 })();
