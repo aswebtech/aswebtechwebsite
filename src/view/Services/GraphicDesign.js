@@ -24,9 +24,9 @@ function GraphicDesign() {
             <Container>
                 <Row>
                     <div style={{ textAlign: "center", marginTop: "40px", marginBottom: "40px" }}>
-                        <h3>WordPress Development</h3>
+                        <h3>GRAPHIC DESIGNING</h3>
                         <span class="content_bar"></span>
-                        <p>We undertake services that cater to commercial purpose to personal requirements. Our WordPress development team fulfills the needs of our customers with reflective and efficient website designs. In today's modern time, WordPress is a boosting factor in the digital world. Emstell is one of the leading WordPress development companies that strive to offer websites that are compatible with serving various needs of the business. Professionals from Emstell are dedicated to offering services of WordPress development and designing services.</p>
+                        <p>ASWebTech's graphic designing, logo creation, UI/UX, and Figma designs elevate brand identity, enhance user engagement, and optimize conversion rates. Leveraging innovative tools and a strategic approach, we ensure consistency across platforms and provide a competitive edge in the market, fostering long-term customer satisfaction and loyalty.</p>
                     </div>
                 </Row>
             </Container>
@@ -38,40 +38,40 @@ function GraphicDesign() {
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon" className="card_icon"></span>
-                                <Col><h4>Product Design</h4>
+                                <Col><h4>Creative Expertise</h4>
                                     <span></span>
                                 </Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>ASWebTech boasts a team of talented designers with a keen eye for creativity and innovation. Our designers are adept at translating ideas into visually stunning designs that resonate with your audience.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                    <Col><h4>Product Design</h4>
+                                    <Col><h4>Customized Solutions</h4>
                                         <span></span>
                                     </Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p> We understand that every brand is unique, which is why we offer customized design solutions tailored to your specific requirements. Whether you need a logo that reflects your brand identity or a user interface that enhances user experience, we've got you covered.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h4>Attention to Detail</h4><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>We pay meticulous attention to detail in every aspect of our design process, ensuring that every element is thoughtfully crafted to perfection. From color schemes to typography, we strive for excellence in every design we create.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h4>Strategic Approach</h4><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>Our design process is driven by a strategic approach aimed at achieving your business objectives. Whether it's increasing brand awareness or driving conversions, we align our design strategies with your goals to deliver measurable results.</p>
                         </div>
                     </Col>
                 </Row>
@@ -80,36 +80,37 @@ function GraphicDesign() {
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h4>Collaborative Process</h4><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>We believe in fostering collaboration with our clients throughout the design process. Your input and feedback are integral to our design process, ensuring that the final product meets your expectations and exceeds them.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h4>Versatility</h4><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>ASWebTech offers a wide range of design services, including graphic designing, logo creation, and Figma UI/UX designing. Whether you need a single design service or a comprehensive design package, we have the expertise to meet your needs.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h4>Customer Satisfaction</h4><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>At ASWebTech, customer satisfaction is our top priority. We go above and beyond to ensure that our clients are delighted with the final outcome of their design projects. From initial concept to final delivery, we are committed to exceeding your expectations every step of the way.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h4>Technology Integration</h4><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>We leverage the latest design tools and technologies, including Figma, to streamline our design process and deliver superior results efficiently. Our designers are proficient in utilizing these tools to bring your vision to life.
+</p>
                         </div>
                     </Col>
                 </Row>
@@ -189,7 +190,6 @@ function GraphicDesign() {
                 </Row>
             </Container>
             <Client />
-            <GetInTouch />
             <Footer />
         </>
     )
