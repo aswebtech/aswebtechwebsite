@@ -134,7 +134,7 @@ function Laravel() {
                     <Container>
                         <Row style={{marginTop:"40px"}}>
                             <Col className="bx_wrapper"><h2>Why we are an ideal choice for you?</h2></Col>
-                            <Col className="bx_wrapper"><h5>Agile. Transparent. Collaborative. Time Tested. Our approach in product development helps you make the right choice for your users. Agile. Transparent. Collaborative. Time Tested. Our approach in product development</h5></Col>
+                            <Col className="bx_wrapper"><h5>We stand out as your ideal choice due to our extensive experience and steadfast dedication to achieving your goals, guaranteeing exceptional service and outcomes in the digital sphere.</h5></Col>
                         </Row>
                         <Row>
                             <Col className="bx_wrapper">
