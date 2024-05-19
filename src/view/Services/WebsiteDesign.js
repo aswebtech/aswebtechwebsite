@@ -123,7 +123,7 @@ function WebsiteDesign() {
                     <Col>
                         <div className="tex_word_wp">
                             <h4>We served websites to these industries</h4>
-                            <p>AS Web Tech Founder has created websites for almost all industries, some of which are as follows</p>
+                            <p>AS Web Tech has created websites for almost all industries, some of which are as follows</p>
                             <ul>
                             <li>Matrimonial Website</li>
                             <li>Schooling & College Website</li>
