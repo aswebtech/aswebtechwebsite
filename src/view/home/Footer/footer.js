@@ -19,7 +19,7 @@ function Footer() {
                         <h3>IT Services</h3>
                         <ul>
                             <li><Link className="linkWrapper" to="/websiteDesign">Website Designing</Link></li>
-                            <li><Link className="linkWrapper" to="/logo-design">Logo</Link></li>
+                            <li><Link className="linkWrapper" to="/logo-design">Logo Design</Link></li>
                             <li><Link className="linkWrapper" to="/graphic-design">Graphic Designing</Link></li>
                             <li><Link className="linkWrapper" to="/ui-ux">UI/UX</Link></li>
                             <li><Link className="linkWrapper" to="/figma-design">Figma/Adobe UI Design</Link></li>
