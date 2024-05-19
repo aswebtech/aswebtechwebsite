@@ -15,9 +15,8 @@ function Logo() {
                     <img src={process.env.PUBLIC_URL + "/Assets/services/logodesign.jpg"} className="App-banner" alt="logo" />
                     <div style={{ position: "relative" }}>
                         <div className="head_wrapper">
-                            <h1><span id="head_main">Logo DEVELOPMENT</span></h1>
-                            <p><span id="head_para">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</span></p>
-                            <button className="allBtnwrapper">GET IN TOUCH</button>
+                            <h1><span id="head_main">Logo Design</span></h1>
+                            <p><span id="head_para">Logo design is a vital component of branding, encapsulating a company's identity and values in a visually striking symbol. It serves as a memorable representation of a brand, instantly recognizable and capable of conveying its essence to audiences. A well-crafted logo communicates professionalism, credibility, and differentiation in a competitive marketplace.</span></p>
                         </div>
                     </div>
                 </Row>
@@ -25,9 +24,9 @@ function Logo() {
             <Container>
                 <Row>
                     <div style={{ textAlign: "center", marginTop: "40px", marginBottom: "40px" }}>
-                        <h3>WordPress Development</h3>
+                        <h3>Crafting Memorable Logos: The Art of Visual Branding</h3>
                         <span class="content_bar"></span>
-                        <p>We undertake services that cater to commercial purpose to personal requirements. Our WordPress development team fulfills the needs of our customers with reflective and efficient website designs. In today's modern time, WordPress is a boosting factor in the digital world. Emstell is one of the leading WordPress development companies that strive to offer websites that are compatible with serving various needs of the business. Professionals from Emstell are dedicated to offering services of WordPress development and designing services.</p>
+                        <p>The design phase involves brainstorming ideas, sketching concepts, and refining them into cohesive visual representations. Elements such as typography, color palette, and imagery are carefully chosen to evoke the desired emotional response and convey the brand's message effectively.</p>
                     </div>
                 </Row>
             </Container>
