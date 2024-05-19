@@ -2,11 +2,11 @@ import $ from 'jquery';
 
 (function(){
     var words = [
-        'BUSINESS SOLUTIONS',
-        'MOBILE APPLICATIONS',
-        'DATA ANALYTICS',
-        'EDUCATION MANAGEMENT',
-        'SOFTWARE  TESTING',
+        'Website Development:',
+        'Logo Design',
+        'Social Media Management',
+        'UI/UX Design',
+        'Digital Marketing',
         ], i = 0;
     setInterval(function(){
         $('#changingword').fadeOut(function(){
@@ -17,11 +17,11 @@ import $ from 'jquery';
 })();
 (function(){
     var words = [
-        "Our strategists offer innovative and singular solutions for each project to help businesses meet their objectives cost-effectively. Our experts analyse all aspects to identify execution gaps and provide optimised plans to meet those particular needs. We combine advanced technology with radical ideas to empower businesses to reinvent themselves.",
-        "Whether you want to convert your business idea into an app or design an application for your website, we have the experience and expertise to design systems that deliver a smooth, bug-free performance loaded with rich features and a user-friendly interface.",
-        "Tailored data analytics solutions to meet all your business needs. We help you integrate, aggregate, and analyse data from various sources to address your most deliberate business needs. This data-led transformation will connect data with ideas, people, and eventually outcomes that align your business with modern standards and help its exponential growth.",
-        "Our experts research extensively to develop solutions and provide opportunities of a lifetime to advance your academic and professional objectives.",
-        "Develop apps with confidence using our quick testing feature, better coverage, and a robust AI system that catches bugs before launch. Our software testing services comprise a strict evaluation to verify whether the application meets the required parameters.",
+        "Sculpting digital marvels, we metamorphose concepts into flawless websites. Amplify your digital footprint with our tailored web solutions.",
+        "Forge a memorable brand identity with our bespoke logo design solutions. Our expert designers blend creativity and strategy to craft logos that resonate with your audience and stand the test of time.",
+        "Enhance your online brand image with our expert social media management services. From content curation to engagement strategies, we craft compelling narratives that amplify your presence and foster meaningful connections with your audience.",
+        "Harness the power of intuitive UI/UX design to captivate your audience and elevate user engagement. Our expert team combines creativity and functionality to craft seamless digital experiences that leave a lasting impression.",
+        "Maximize your online reach and conversions with our dynamic digital marketing strategies. From SEO to social media, we tailor campaigns to propel your brand to new heights in the digital landscape.",
         ], i = 0;
     setInterval(function(){
         $('#changingpara').fadeOut(function(){
