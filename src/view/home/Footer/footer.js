@@ -18,11 +18,11 @@ function Footer() {
                     <Col>
                         <h3>IT Services</h3>
                         <ul>
-                            <li><Link className="linkWrapper" to="/wordpress">Wordpress</Link></li>
-                            <li><Link className="linkWrapper" to="/magento">Magento</Link></li>
-                            <li><Link className="linkWrapper" to="/magento">Android</Link></li>
-                            <li><Link className="linkWrapper" to="/flutter">Flutter app</Link></li>
-                            <li><Link className="linkWrapper" to="/payment-gateway">Payment Gateway</Link></li>
+                            <li><Link className="linkWrapper" to="/websiteDesign">Website Designing</Link></li>
+                            <li><Link className="linkWrapper" to="/logo-design">Logo</Link></li>
+                            <li><Link className="linkWrapper" to="/graphic-design">Graphic Designing</Link></li>
+                            <li><Link className="linkWrapper" to="/ui-ux">UI/UX</Link></li>
+                            <li><Link className="linkWrapper" to="/figma-design">Figma/Adobe UI Design</Link></li>
                             <li><Link className="linkWrapper" to="/social-media">Social Media Post</Link></li>
                         </ul>
                     </Col> 
@@ -31,7 +31,6 @@ function Footer() {
                             <ul>
                                 <li><Link className="linkWrapper_anc" to="/portfolio">Portfolio</Link></li>
                                 <li><Link className="linkWrapper_anc" to="/contact-us">Contact Us</Link></li>
-                                <li><Link className="linkWrapper_anc" to="/blog">Blogs</Link></li>
                                 <li><Link className="linkWrapper_anc" to="/about-us">About Us</Link></li>
                                 <li><Link className="linkWrapper_anc" to="/terms-and-Condition">Terms & Condition</Link></li>
                                 <li><a className="linkWrapper_anc" target="_blank" href='../../../assets/Fyndora_COMPANY_PROFILE.pdf'>View Buisness Pdf</a></li>
@@ -41,10 +40,9 @@ function Footer() {
                         <h3>Contact Info</h3>
                         <ul>
                             <li>
-                                Email Id: Fyndora@info .com <br></br>
-                                Contact No : 970980890980 <br></br>
-                                 No : 970980890980 <br></br>
-                                Address : Noida Sec 67 Uttar Pradesh 201301 <br></br>
+                                Email Id: info@aswebtech.online</br>
+                                Contact No : 8676006175 </br>
+                                Address : Noida Sec 15 Uttar Pradesh 201301 <br></br>
                             </li>
                         </ul>
                     </Col>
