@@ -15,8 +15,6 @@ function Home(){
             <Header></Header>
             <Banner/>
             <BannerSecond></BannerSecond>
-            // <GetInTouch/>
-            // <Testimonial/>
             <Client/>
             <Footer/>
         </>
