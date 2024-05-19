@@ -15,9 +15,8 @@ function FigmaDesign() {
                     <img src={process.env.PUBLIC_URL + "/Assets/services/figma.jpg"} className="App-banner" alt="logo" />
                     <div style={{ position: "relative" }}>
                         <div className="head_wrapper">
-                            <h1><span id="head_main">FigmaDesign DEVELOPMENT</span></h1>
-                            <p><span id="head_para">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</span></p>
-                            <button className="allBtnwrapper">GET IN TOUCH</button>
+                            <h1><span id="head_main">Figma Design</span></h1>
+                            <p><span id="head_para">Figma is a cloud-based design tool that revolutionizes the way design and development teams collaborate on interface design projects. Unlike traditional design software, Figma operates entirely in the browser, allowing multiple team members to work simultaneously on the same project in real-time. This real-time collaboration feature fosters seamless communication and enables designers and developers to iterate rapidly, reducing project timelines and enhancing overall efficiency.</span></p>
                         </div>
                     </div>
                 </Row>
@@ -25,92 +24,54 @@ function FigmaDesign() {
             <Container>
                 <Row>
                     <div style={{ textAlign: "center", marginTop: "40px", marginBottom: "40px" }}>
-                        <h3>WordPress Development</h3>
+                        <h3>Figma Design Development: Streamlining Collaboration and Workflow Efficiency</h3>
                         <span class="content_bar"></span>
-                        <p>We undertake services that cater to commercial purpose to personal requirements. Our WordPress development team fulfills the needs of our customers with reflective and efficient website designs. In today's modern time, WordPress is a boosting factor in the digital world. Emstell is one of the leading WordPress development companies that strive to offer websites that are compatible with serving various needs of the business. Professionals from Emstell are dedicated to offering services of WordPress development and designing services.</p>
+                        <p>Figma also excels in design-to-development handoff, simplifying the transition from design to code. Developers can inspect design elements, access design specifications, and export assets directly from Figma, eliminating guesswork and reducing the likelihood of discrepancies between design and implementation. This seamless integration between design and development fosters closer collaboration and accelerates the delivery of high-quality digital products.</p>
                     </div>
                 </Row>
             </Container>
             <Container>
-                <h3 style={{ textAlign: "center" }}>WHY CHOOSE AMBAB FOR MAGENTO DEVELOPMENT</h3>
+                <h3 style={{ textAlign: "center" }}>WHY CHOOSE AS WEB TECH FOR WEBSITE DEVELOPMENT</h3>
                 <span class="content_bar"></span>
                 <Row className="bxuirt">
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon" className="card_icon"></span>
-                                <Col><h4>Product Design</h4>
+                                <Col><h6> Interface and Navigation</h6>
                                     <span></span>
                                 </Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>Figma UI features an intuitive interface designed to facilitate ease of use and accessibility for designers of all skill levels. Its clean layout and straightforward navigation enable users to navigate between design files, artboards, and layers effortlessly, promoting a fluid design workflow.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                    <Col><h4>Product Design</h4>
+                                    <Col><h4> Design Tools and Features</h4>
                                         <span></span>
                                     </Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>Figma UI offers a comprehensive set of design tools and features that empower designers to bring their creative visions to life. From vector drawing tools and shape manipulation to advanced prototyping capabilities and interactive components.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h6> Prototyping and Interaction Design</h6><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>Figma UI empowers designers to create interactive prototypes and simulate user interactions seamlessly within the platform. Designers can define transitions, animations.</p>
                         </div>
                     </Col>
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h6>Integration and Ecosystem</h6><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                </Row>
-                <Row className="bxuirt2">
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>Figma UI integrates seamlessly with a variety of third-party tools and platforms, extending its functionality and interoperability. Integrations with tools like Slack, Jira, and Zeplin streamline communication, project management.</p>
                         </div>
                     </Col>
                 </Row>
