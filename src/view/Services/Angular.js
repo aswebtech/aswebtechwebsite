@@ -123,8 +123,9 @@ function Laravel() {
                     </Col>
                     <Col>
                         <div className="tex_word_wp">
-                            <h2>What is Lorem Ipsum?</h2>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.  A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <h2>Empowering Developers to Build Modern Web Experiences</h2>
+                            <p>AngularJS empowers developers to create modern and dynamic web experiences with efficiency and ease. Its robust architecture, powerful features, and supportive community make it a top choice for building scalable and maintainable web applications. Whether you're a seasoned developer or just starting, AngularJS provides the tools and flexibility needed to bring your ideas to life and meet the evolving demands of web development.</p>
+    <p>AngularJS benefits from a vibrant and active community of developers, who contribute to its ecosystem by creating extensions, libraries, and plugins. This collaborative environment fosters innovation and ensures that AngularJS remains at the forefront of web development trends.</p>
                         </div>
                     </Col>
                 </Row>
