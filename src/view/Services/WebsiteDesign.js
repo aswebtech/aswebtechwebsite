@@ -25,36 +25,36 @@ function WebsiteDesign() {
             <Container>
                 <Row>
                     <div style={{ textAlign: "center", marginTop: "40px", marginBottom: "40px" }}>
-                        <h3>WordPress Development</h3>
+                        <h3>Website Design</h3>
                         <span class="content_bar"></span>
-                        <p>We undertake services that cater to commercial purpose to personal requirements. Our WordPress development team fulfills the needs of our customers with reflective and efficient website designs. In today's modern time, WordPress is a boosting factor in the digital world. Emstell is one of the leading WordPress development companies that strive to offer websites that are compatible with serving various needs of the business. Professionals from Emstell are dedicated to offering services of WordPress development and designing services.</p>
+                        <p>AS Web.Tech: Innovating designs, crafting captivating digital experiences, and creating accessible websites for all.</p>
                     </div>
                 </Row>
             </Container>
             <Container>
-                <h3 style={{ textAlign: "center" }}>WHY CHOOSE AMBAB FOR MAGENTO DEVELOPMENT</h3>
+                <h3 style={{ textAlign: "center" }}>WHY CHOOSE AS WEB TECH FOR WEBSITE DEVELOPMENT</h3>
                 <span class="content_bar"></span>
                 <Row className="bxuirt">
                     <Col>
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon" className="card_icon"></span>
-                                <Col><h4>Product Design</h4>
-                                    <span></span>
-                                </Col>
-                            </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
-                        </div>
-                    </Col>
-                    <Col>
-                        <div className="card_file">
-                            <Row>
-                                    <span className="card_icon"></span>
-                                    <Col><h4>Product Design</h4>
+                                    <Col><h4>Expertise</h4>
                                         <span></span>
                                     </Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>As Web tech boasts a team of highly skilled professionals with extensive expertise in web development and designing. Our team members are proficient in the latest technologies and trends.</p>
+                        </div>
+                    </Col>
+                    <Col>
+                        <div className="card_file">
+                            <Row>
+                                    <span className="card_icon"></span>
+                                    <Col><h4>Responsive Design</h4>
+                                        <span></span>
+                                    </Col>
+                            </Row>
+                            <p>In today's mobile-centric world, having a responsive website is essential. At Astech, we prioritize responsive design, ensuring that your website looks and functions flawlessly across all devices.</p>
                         </div>
                     </Col>
                     <Col>
@@ -70,9 +70,9 @@ function WebsiteDesign() {
                         <div className="card_file">
                             <Row>
                                     <span className="card_icon"></span>
-                                <Col><h4>Product Design</h4><span></span></Col>
+                                <Col><h4>Custom Solutions</h4><span></span></Col>
                             </Row>
-                            <p>Ambab follows a product approach to build websites and web apps. A major reason for this is everything we do is measurable, and we have a proper deadline that guarantees quality and fractions in every minute detail in the planning phase.</p>
+                            <p>We understand that every business is unique, which is why we offer custom solutions tailored to meet your specific requirements.</p>
                         </div>
                     </Col>
                 </Row>
