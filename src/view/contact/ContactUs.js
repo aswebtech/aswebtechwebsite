@@ -44,7 +44,6 @@ function ContactUs(){
                     </Col>
                 </Row>
                </Container>
-            // <GetInTouch/>
             <Footer/>
         </>
     )
