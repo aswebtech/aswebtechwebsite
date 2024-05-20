@@ -16,7 +16,7 @@ function SocialMedia() {
                     <div style={{ position: "relative" }}>
                         <div className="head_wrapper">
                             <h1><span id="head_main">Social Media Management</span></h1>
-                            <p><span id="head_para">Let ASWebTech take the reins of your social media presence! Our Social Media Content Management service ensures your platforms stay vibrant, engaging, and on-brand. From strategic planning to creative content creation and timely scheduling, we've got you covered. Elevate your online presence with ASWebTech today! #SocialMediaManagement #ASWebTech"</span></p>
+                            <p><span id="head_para" style={{top:"-260px"}}>Let ASWebTech take the reins of your social media presence! Our Social Media Content Management service ensures your platforms stay vibrant, engaging, and on-brand. From strategic planning to creative content creation and timely scheduling, we've got you covered. Elevate your online presence with ASWebTech today! #SocialMediaManagement #ASWebTech"</span></p>
                         </div>
                     </div>
                 </Row>
