@@ -44,7 +44,6 @@ const Page = (props) => {
                 </div>  
             </Row>
         </Container>
-        <GetInTouch/>
         <Footer/>
         </>
     )
