@@ -17,7 +17,7 @@ function Reactjs() {
                     <div style={{ position: "relative" }}>
                         <div className="head_wrapper">
                             <h1><span id="head_main">REACT JS / NEXT JS</span></h1>
-                            <p><span id="head_para">React JS and Next JS are powerful frameworks for building dynamic and responsive websites with enhanced user experiences. Leveraging the declarative component-based architecture of React, developers can create reusable UI components, streamlining the development process and ensuring consistency across the application.</span></p>
+                            <p><span id="head_para"  style={{top:"-260px"}}>React JS and Next JS are powerful frameworks for building dynamic and responsive websites with enhanced user experiences. Leveraging the declarative component-based architecture of React, developers can create reusable UI components, streamlining the development process and ensuring consistency across the application.</span></p>
                         </div>
                     </div>
                 </Row>
