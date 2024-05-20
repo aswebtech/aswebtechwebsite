@@ -43,7 +43,7 @@ function AboutUs(){
                 </Row>
                 <Row>
                     <div className="about-us_first">
-                        <h2>GlobalLogic Company Facts At-A-Glance</h2>
+                        <h2>Global Logic Company Facts At-A-Glance</h2>
                         <p>For over 20 years, GlobalLogic has partnered with businesses across every major industry to make amazing products and connect the dots between people, products, and business opportunities. In 2021, GlobalLogic was acquired by Hitachi Ltd. GlobalLogic’s capabilities, combined with Hitachi’s Lumada, enables us to deploy Hitachi’s extensive library of digital solutions to the global market and to help customers and societies solve their issues through Agile application development in the cloud.</p>
                         <ul>
                             <li><b>Founded:</b> Aswebtech was founded in 2020.</li>
