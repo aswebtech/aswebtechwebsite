@@ -60,7 +60,6 @@ const Portfolio = () =>{
                   </Container>
                 ))
             }
-            <GetInTouch/>            
     <Footer/>
         </>
     )
