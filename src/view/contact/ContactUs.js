@@ -22,8 +22,7 @@ function ContactUs(){
                          <div className="contact_Wra">
                             <img src={process.env.PUBLIC_URL + "/Assets/call.png"}/>
                             <ul>
-                                <li>Phone No : 970980890980</li>
-                                <li>Contact No : 970980890980</li>
+                                <li>Contact No : 8676006175</li>
                             </ul>
                          </div>
                     </Col>
@@ -31,8 +30,7 @@ function ContactUs(){
                             <div className="contact_Wra">
                                 <img src={process.env.PUBLIC_URL + "/Assets/email.png"}/>
                                 <ul>
-                                    <li>Email Id: Fyndora@gmail.com</li>
-                                    <li>Official Id: fyndrora@info.com</li>
+                                    <li>Official Id: info@aswebtech.online</li>
                                 </ul>
                             </div>
                     </Col>
@@ -40,13 +38,13 @@ function ContactUs(){
                         <div className="contact_Wra">
                             <img src={process.env.PUBLIC_URL + "/Assets/address.png"}/>  
                             <ul>
-                                <li>Adress: Sec -63 Noida Uttar Pradesh 201309</li>
+                                <li>Adress: Sec -15 Noida Uttar Pradesh 201309</li>
                             </ul>
                         </div>
                     </Col>
                 </Row>
                </Container>
-            <GetInTouch/>
+            // <GetInTouch/>
             <Footer/>
         </>
     )
