@@ -16,7 +16,7 @@ function Android() {
                     <div style={{ position: "relative" }}>
                         <div className="head_wrapper">
                             <h1><span id="head_main">Android DEVELOPMENT</span></h1>
-                            <p><span id="head_para">Android development involves creating applications for devices running the Android operating system, ranging from smartphones and tablets to wearables and IoT devices. Leveraging the Android SDK (Software Development Kit) and programming languages like Java or Kotlin, developers can craft versatile and feature-rich applications tailored to diverse user needs.</span></p>
+                            <p><span id="head_para"  style={{top:"-260px"}}>Android development involves creating applications for devices running the Android operating system, ranging from smartphones and tablets to wearables and IoT devices. Leveraging the Android SDK (Software Development Kit) and programming languages like Java or Kotlin, developers can craft versatile and feature-rich applications tailored to diverse user needs.</span></p>
                         </div>
                     </div>
                 </Row>
