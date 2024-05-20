@@ -16,7 +16,7 @@ function Hybrid() {
                     <div style={{ position: "relative" }}>
                         <div className="head_wrapper">
                             <h1><span id="head_main">React Native (Hybrid)</span></h1>
-                            <p><span id="head_para">
+                            <p><span id="head_para" style={{top:"-260px"}}>
                                 React Native is a popular open-source framework for building cross-platform mobile applications using JavaScript and React. Developed by Facebook, React Native enables developers to create native-like experiences for iOS and Android platforms from a single codebase. With React Native, developers can leverage their existing knowledge of JavaScript and React to develop mobile apps, reducing development time and effort.</span></p>
                         </div>
                     </div>
