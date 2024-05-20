@@ -17,7 +17,7 @@ function Flutter() {
                     <div style={{ position: "relative" }}>
                         <div className="head_wrapper">
                             <h1><span id="head_main">FLUTTER DEVELOPMENT</span></h1>
-                            <p><span id="head_para">Flutter development revolutionizes cross-platform app development by offering a comprehensive framework for building high-quality native applications for mobile, web, and desktop from a single codebase. Developed by Google, Flutter utilizes the Dart programming language to deliver fast, expressive, and flexible development experiences.</span></p>
+                            <p><span id="head_para" style={{top:"-260px"}}>Flutter development revolutionizes cross-platform app development by offering a comprehensive framework for building high-quality native applications for mobile, web, and desktop from a single codebase. Developed by Google, Flutter utilizes the Dart programming language to deliver fast, expressive, and flexible development experiences.</span></p>
                         </div>
                     </div>
                 </Row>
