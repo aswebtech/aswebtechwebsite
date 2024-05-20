@@ -44,7 +44,7 @@ function ContactUs(){
                     </Col>
                 </Row>
                </Container>
-                <Container style={{margin:"100px"}}>
+                <Container style={{margin:"100px 200px 0px 0px"}}>
                     <GetInTouch/>    
                 </Container>
             <Footer/>
