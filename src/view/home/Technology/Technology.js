@@ -18,7 +18,7 @@ function Technology(){
                 items:8
             },
             1000:{
-                items:15
+                items:9
             }
         }
     };
@@ -79,58 +79,6 @@ function Technology(){
                     <div class='item'>
                         <img src={process.env.PUBLIC_URL + "/Assets/tech/16.png"} alt="logo" />
                     </div>
-                    </OwlCarousel>
-                </Row>
-                <Row>
-                     <OwlCarousel className='owl-theme' {...optionstech} loop margin={10} nav>
-                        <div class='item'>
-                            <img src={process.env.PUBLIC_URL + "/Assets/tech/1.png"} alt="logo" />
-                        </div>
-                        <div class='item'>
-                            <img src={process.env.PUBLIC_URL + "/Assets/tech/2.png"} alt="logo" />
-                        </div>
-                        <div class='item'>
-                            <img src={process.env.PUBLIC_URL + "/Assets/tech/3.png"} alt="logo" />
-                        </div>
-                        <div class='item'>
-                            <img src={process.env.PUBLIC_URL + "/Assets/tech/4.png"} alt="logo" />
-                        </div>
-                        <div class='item'>
-                            <img src={process.env.PUBLIC_URL + "/Assets/tech/5.png"} alt="logo" />
-                        </div>
-                        <div class='item'>
-                            <img src={process.env.PUBLIC_URL + "/Assets/tech/6.png"} alt="logo" />
-                        </div>
-                        <div class='item'>
-                            <img src={process.env.PUBLIC_URL + "/Assets/tech/7.png"} alt="logo" />
-                        </div>
-                        <div class='item'>
-                            <img src={process.env.PUBLIC_URL + "/Assets/tech/8.png"} alt="logo" />
-                        </div>
-                        <div class='item'>
-                            <img src={process.env.PUBLIC_URL + "/Assets/tech/9.png"} alt="logo" />
-                        </div>
-                        <div class='item'>
-                            <img src={process.env.PUBLIC_URL + "/Assets/tech/10.png"} alt="logo" />
-                        </div>
-                        <div class='item'>
-                            <img src={process.env.PUBLIC_URL + "/Assets/tech/11.png"} alt="logo" />
-                        </div>
-                        <div class='item'>
-                            <img src={process.env.PUBLIC_URL + "/Assets/tech/12.png"} alt="logo" />
-                        </div>
-                        <div class='item'>
-                            <img src={process.env.PUBLIC_URL + "/Assets/tech/13.png"} alt="logo" />
-                        </div>
-                        <div class='item'>
-                            <img src={process.env.PUBLIC_URL + "/Assets/tech/14.png"} alt="logo" />
-                        </div>
-                        <div class='item'>
-                            <img src={process.env.PUBLIC_URL + "/Assets/tech/15.png"} alt="logo" />
-                        </div>
-                        <div class='item'>
-                            <img src={process.env.PUBLIC_URL + "/Assets/tech/16.png"} alt="logo" />
-                        </div>
                     </OwlCarousel>
                 </Row>
             </Container>
