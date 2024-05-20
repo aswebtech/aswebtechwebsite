@@ -21,21 +21,43 @@ function GetInTouch() {
         e.preventDefault();
         saveMessages(fname, lname, number, email, message);
     }
-    const saveMessages = (fname, lname, number, email, message) => {
-        var newContactFormRef = contactForm.push();
-        newContactFormRef.set({
-            fname: fname,
-            lname: lname,
-            number: number,
-            email: email,
-            message: message
-        });
-        swal({
-        title: "Your messsage sent",
-        text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        icon: "success",
-        dangerMode: false,});
-        EmptyField();
+    // const saveMessages = (fname, lname, number, email, message) => {
+    //     var newContactFormRef = contactForm.push();
+    //     newContactFormRef.set({
+    //         fname: fname,
+    //         lname: lname,
+    //         number: number,
+    //         email: email,
+    //         message: message
+    //     });
+    //     swal({
+    //     title: "Your messsage sent",
+    //     text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    //     icon: "success",
+    //     dangerMode: false,});
+    //     EmptyField();
+    // }
+    const saveMessages = async (fname, lname, number, email, message) => {
+        const data = {
+            "username":fname+' '+ lname,
+            "email":email,
+            "message":number +' '+message,
+          }
+        const response = await fetch('https://contact-sytq.onrender.com/api/v1/feedback',{
+            'method': 'POST',
+            'headers': {
+              'Content-Type': 'application/json'
+            },
+            body:JSON.stringify(data)
+          })
+          if(response.status === 200){
+            swal({
+                title: "Your messsage sent",
+                text: `Hey ${fname}! Thanks for reaching out. I'll get back to you soon! Our team will touch base with you within 24 hours.`,
+                icon: "success",
+                dangerMode: false,});
+                EmptyField();
+          }
     }
 function EmptyField(){
         setFname("")
