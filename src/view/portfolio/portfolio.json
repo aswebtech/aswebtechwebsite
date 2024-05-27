@@ -13,15 +13,15 @@
     },
     {
         "id":2,
-        "title":"Fydnora Fitness App",
-        "slug":"fydnora_fitness_app",
-        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
-        "description2":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
-        "image":"/Assets/portfolio/item2-1.png",
-        "image1":"/Assets/portfolio/item2-2.png",
-        "image3":"/Assets/portfolio/item2-3.png",
-        "banner":"/Assets/portfolio/FITNESS Banner1.jpg",
-        "workscreen":"/Assets/portfolio/fitnessmob1.jpg"
+        "title":"JEEWANSEVA",
+        "slug":"jeeewanseva",
+        "description":"Jeewan Sewa is a beacon of hope, a non-governmental organization dedicated to serving humanity with compassion and commitment. Founded on the principles of altruism and social responsibility, it tirelessly works towards uplifting the underprivileged, providing essential services like education, healthcare, and livelihood opportunities. ",
+        "description2":"With a vision to create a brighter future for every individual, Jeewan Sewa embodies the spirit of selfless service, illuminating lives and fostering positive change in communities.Driven by a deep sense of empathy, Jeewan Sewa extends its reach to the most marginalized segments of society, offering not just material support but also emotional and psychological care. Its network of dedicated volunteers and staff work hand in hand, exemplifying the power of collective action and solidarity. Through its various programs and initiatives, Jeewan Sewa continues to inspire hope, resilience, and dignity among those in need, leaving a lasting impact on the fabric of society.",
+        "image":"/Assets/portfolio/portfolio8.png",
+        "image1":"/Assets/portfolio/portfolio5.png",
+        "image3":"/Assets/portfolio/portfolio4.png",
+        "banner":"/Assets/portfolio/portfolio5.jpg",
+        "workscreen":"/Assets/portfolio/portfolio5.jpg"
     },
     {
         "id":3,
