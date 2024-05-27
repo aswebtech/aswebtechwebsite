@@ -11,10 +11,10 @@ function GetPartner (){
         dots:false,
         responsive:{
             0:{
-                items:6
+                items:1
             },
             600:{
-                items:8
+                items:2
             },
             1000:{
                 items:2.9
