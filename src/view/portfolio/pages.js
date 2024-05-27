@@ -36,7 +36,8 @@ const Page = (props) => {
                     <h3>{portfolio.title}</h3>
                     <img src={process.env.PUBLIC_URL + portfolio.banner} alt="logo" />     
                     <p>{portfolio.description}</p>               
-                    <p>{portfolio.description2}</p>             
+                    <p>{portfolio.description2}</p>    
+                </div>
             </Row>
         </Container>
         <Footer/>
