@@ -37,11 +37,6 @@ const Page = (props) => {
                     <img src={process.env.PUBLIC_URL + portfolio.banner} alt="logo" />     
                     <p>{portfolio.description}</p>               
                     <p>{portfolio.description2}</p>             
-                    <h3>APP SCREENSHOT</h3>
-                // </div>
-                //     <div class="app-screenshot">
-                //         <img src={process.env.PUBLIC_URL + portfolio.workscreen} alt="logo" />    
-                // </div>  
             </Row>
         </Container>
         <Footer/>
@@ -50,3 +45,11 @@ const Page = (props) => {
 }
 
 export default Page
+
+
+
+     // <h3>APP SCREENSHOT</h3>
+     //            </div>
+     //                <div class="app-screenshot">
+     //                    <img src={process.env.PUBLIC_URL + portfolio.workscreen} alt="logo" />    
+     //            </div>  
