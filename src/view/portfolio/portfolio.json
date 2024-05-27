@@ -8,7 +8,7 @@
         "image":"/Assets/portfolio/portfolio7.png",
         "image1":"/Assets/portfolio/portfolio2.png",
         "image3":"/Assets/portfolio/portfolio3.png",
-        "banner":"/Assets/portfolio/one.png",
+        "banner":"/Assets/portfolio/two.png",
         "workscreen":"/Assets/portfolio/portfolio7.jpg"
     },
     {
@@ -20,7 +20,7 @@
         "image":"/Assets/portfolio/portfolio8.png",
         "image1":"/Assets/portfolio/portfolio5.png",
         "image3":"/Assets/portfolio/portfolio4.png",
-        "banner":"/Assets/portfolio/two.png",
+        "banner":"/Assets/portfolio/one.png",
         "workscreen":"/Assets/portfolio/portfolio4.jpg"
     },
     {
