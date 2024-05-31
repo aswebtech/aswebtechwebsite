@@ -40,7 +40,7 @@ function Footer() {
                         <h3>Contact Info</h3>
                         <ul>
                             <li>
-                                Email Id: info@aswebtech.online<br></br>
+                                Email Id: aswebtechinfo@gmail.com<br></br>
                                 Contact No : 8676006175 <br></br>
                                 Address : Noida Sec 15 Uttar Pradesh 201301 <br></br>
                             </li>
